@@ -69,7 +69,7 @@
 ### 1. 시뮬레이션 영상 (손 모양, 얼굴 인식)
 - 사용자는 아래의 인식된 결과(얼굴 크기, 엄지 손가락 위치 등)를 활용하여 블록 코딩 작업을 수행할 수 있습니다.
 
-<video src="https://github.com/merrykang/realtime-tfjs/issues/1#issue-3135759828" width="600" controls></video>
+<video src="https://private-user-images.githubusercontent.com/121994108/453796062-b12e5b29-1d99-46e7-a24f-e8c7988952e3.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk2Mjc2NzEsIm5iZiI6MTc0OTYyNzM3MSwicGF0aCI6Ii8xMjE5OTQxMDgvNDUzNzk2MDYyLWIxMmU1YjI5LTFkOTktNDZlNy1hMjRmLWU4Yzc5ODg5NTJlMy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxMVQwNzM2MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjZlNmMwZTBlYjZkZmQyYjQyY2VlN2EwZDI3ODQ5NTYzMDg2YTA0YjdhNDJiOWNjMzczMzA1MmFmMjAzOTlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wBrB4HtQ_3lG9g6sShd76GXO3DB9mZRz13ydNcPEFLw" width="300" controls></video>
 
 ### 2. 예측 결과 예시
 - 아래는 손 모양 인식 모델이 반환하는 예측 결과 예시 JSON 구조입니다.
