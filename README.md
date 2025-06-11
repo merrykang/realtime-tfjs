@@ -69,7 +69,7 @@
 ### 1. 시뮬레이션 영상 (손 모양, 얼굴 인식)
 - 사용자는 아래의 인식된 결과(얼굴 크기, 엄지 손가락 위치 등)를 활용하여 블록 코딩 작업을 수행할 수 있습니다.
 
-<video src="demo-object-detection.mp4" width="600" controls></video>
+<video src="https://github.com/merrykang/realtime-tfjs/issues/1#issue-3135759828" width="600" controls></video>
 
 ### 2. 예측 결과 예시
 - 아래는 손 모양 인식 모델이 반환하는 예측 결과 예시 JSON 구조입니다.
