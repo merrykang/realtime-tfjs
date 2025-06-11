@@ -18,28 +18,49 @@
 
 # ⚙️ Stacks
 
-## ✔️ Language  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
-
-## ✔️ Frontend  
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
-
-## ✔️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-
-## ✔️ AI  
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Object Detection](https://img.shields.io/badge/Object--Detection-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-## ✔️ Build & Deployment  
-![Electron](https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white)
-![AWS Lightsail](https://img.shields.io/badge/AWS%20Lightsail-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-
-## ✔️ Environment  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)
+<table>
+  <tr>
+    <td><b>✔️ Language</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>✔️ Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>✔️ Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>✔️ AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Object--Detection-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>✔️ Build & Deployment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20Lightsail-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>✔️ Environment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 </br>
 
