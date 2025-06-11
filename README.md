@@ -73,21 +73,28 @@
 
 ### 2. 예측 결과 예시
 - 아래는 손 모양 인식 모델이 반환하는 예측 결과 예시 JSON 구조입니다.
-
-
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><img src= "" width=500px;" alt=""/><br /><sub><b> Usecase Diagram </b></sub><br /></td>
-      <td align="center"><img src= "https://github.com/kb-final-team4/crimefin/assets/53520867/3912bdde-36d9-4b6f-ad33-10adfaca7cf3" width=500px;" alt=""/><br /><sub><b> Front UI </b></sub><br /></td>
-    </tr>
-    <tr>
-      <td align="center"><img src= "https://github.com/kb-final-team4/crimefin/assets/53520867/d30a0819-426f-4ce0-b538-76554a201494" width=500px; alt=""/><br/><sub><b> API 명세 </b></sub><br/></td>
-      <td align="center"><img src= "https://github.com/kb-final-team4/crimefin/assets/53520867/9c989f0e-8c41-4986-967a-cd35c475ae79" width=500px;" alt=""/><br /><sub><b> DB Modeling </b></sub><br/></td>
-    </tr>
-  </tbody>
-</table>
+```json
+{
+  "detected": [
+    {
+      "box": {
+        "height": 239.49,
+        "width": 193.32,
+        "xMin": 100.69,
+        "xMax": 294.02,
+        "yMin": 18.08,
+        "yMax": 257.57
+      },
+      "keypoints": [
+        { "x": 247.63, "y": 176.64, "z": -33.24, "name": "lips" },
+        { "x": 234.39, "y": 97.83, "z": -4.72, "name": "rightEye" },
+        { "x": 220.13, "y": 59.78, "z": 9.82, "name": "faceOval" }
+        // ...
+      ]
+    }
+  ]
+}
+```
 
 </br>
 
